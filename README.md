@@ -21,13 +21,20 @@ The analysis includes:
 ## Usage Instructions
 # Input files
 analyze_system.ps1
+
 analyze_application.ps1
+
 analyze_security.ps1
+
 analyze_setup.ps1
+
 # Output Files
-Systemlog.xlsx
-Applicationlog.xlsx
+Systemlog.xlxs
+
+Applicationlog.xlxs
+
 Securitylog.xlxs
+
 # Documentation
 Windows log analysis.pdf
 
